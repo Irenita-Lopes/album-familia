@@ -9,8 +9,8 @@ const Blog = () => {
             className="min-h-screen px-4 py-10 md:py-20 md:px-16 flex flex-col md:flex-row items-center justify-center gap-10 bg-[#297DA6]"
             id="blog"
         >
-            <h2 className="text-4xl md:text-5xl text-white font-bold mb-6">Blog</h2>
-            <p className="text-lg md:text-xl text-white leading-relaxed drop-shadow-sm">
+            <h2 className="text-4xl md:text-5xl text-gray-100 font-bold mb-6">Blog</h2>
+            <p className="text-lg md:text-xl text-gray-300 leading-relaxed drop-shadow-sm">
                 Bem-vindo ao meu blog! Aqui você encontrará artigos sobre desenvolvimento web, dicas de programação e muito mais.
             </p>
         </section>
